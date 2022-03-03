@@ -3,7 +3,7 @@ Resource  ../Operational/instructions.robot
 Resource  ../Operational/Variables.robot
 
 *** Test Cases ***
-Opening Myntra Web Application
+Users opens Myntra Homepage
     Open Myntra Website
     Navigate to category
     Click on a particular category

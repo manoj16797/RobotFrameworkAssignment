@@ -2,7 +2,7 @@
 Library  SeleniumLibrary
 
 *** Keywords ***
-Open Myntra Website
+Users opens Myntra Homepage
     Open Browser  ${url}  ${browser}
     Maximize Browser Window
 
